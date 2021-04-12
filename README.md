@@ -2,4 +2,4 @@
 
 ## Beskrivelse
 
-### Lenke til den distribuerte appen
+### Lenke til den distribuerte appen https://otivisan22.github.io/reiseappp/
