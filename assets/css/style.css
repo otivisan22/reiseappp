@@ -4,9 +4,9 @@
 
 /* Set first card to 33% width and 2nd card to 66% */
 .ui-card{
-  width:33%;
+  width:33%;im !important
 }
 
 .card{
-  width:66%;
+  width:66%;im !important
 }
